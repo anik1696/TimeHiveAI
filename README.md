@@ -10,12 +10,6 @@ You type a city name, and the agent runs through a pipeline — parsing the inpu
 
 ---
 
-## Screenshot
-
-> *![Project Screenshot](https://via.placeholder.com/800x400?text=App+Interface+Screenshot)*
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
